@@ -6,7 +6,7 @@ Menu feito utilizando c# e criação de minha autoria sobre navegação de funç
 29/12/2022: Adicionado função de vida infinita e munição infinita.
 
 <div align="center">
-<img src="[https://i.imgur.com/1uNP7bZ.png](https://i.imgur.com/e2DKad2.png)" width="700px" />
+<img src="https://i.imgur.com/e2DKad2.png" width="700px" />
 </div>
 
 <div align="center">
