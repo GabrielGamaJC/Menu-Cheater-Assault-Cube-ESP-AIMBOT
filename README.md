@@ -1,8 +1,8 @@
 # Menu-Cheater-Assault-Cube-ESP-AIMBOT
 
 Menu Cheater Assault Cube ESP, AIMBOT.
-Menu feito utilizando c# e criação de minha autoria sobre navegação de função via setas do teclado.
-
+Menu feito utilizando c# navegação do menu via setas do teclado.
+##
 29/12/2022: Adicionado função de vida infinita e munição infinita.
 
 <div align="center">
