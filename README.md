@@ -7,11 +7,9 @@ Menu feito utilizando c# e criação de minha autoria sobre navegação de funç
 
 <div align="center">
 <img src="https://i.imgur.com/e2DKad2.png" width="700px" />
-</div>
 
-<div align="center">
 <img src="https://i.imgur.com/1uNP7bZ.png" width="700px" />
-</div>
-<div align="center">
+
 <img src="https://i.imgur.com/TErYR3J.png" width="700px" />
+
 </div>
