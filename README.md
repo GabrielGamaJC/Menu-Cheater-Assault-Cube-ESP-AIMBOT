@@ -15,7 +15,7 @@ Menu feito utilizando c# navegação do menu via setas do teclado.
 
 <img src="https://i.imgur.com/p3N0P0J.png" width="700px" />
 
-<img src="https://i.imgur.com/TErYR3J.png" width="700px" />
+<img src="https://i.imgur.com/AiMxFcm.png" width="700px" />
 
 <img src="https://i.imgur.com/K2HfwtG.png" width="700px" />
 
